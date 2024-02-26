@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# FastAPI specific files
+pyproject.toml
+
+# Virtual Environment
+.venv/
+
+# Environment variables file
+.env
